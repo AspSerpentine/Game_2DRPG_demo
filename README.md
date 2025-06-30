@@ -1,10 +1,10 @@
 # Game 2D RPG – Top-Down Adventure
 
-## 🎮 Giới thiệu
+## Giới thiệu
 
 Dự án game nhập vai (RPG) 2D góc nhìn từ trên xuống, được xây dựng bằng **Unity** và ngôn ngữ lập trình **C#**. Trò chơi cho phép người chơi điều khiển nhân vật chính di chuyển, thu thập vật phẩm và chiến đấu với nhiều loại quái vật khác nhau.
 
-## ⚙️ Công nghệ sử dụng
+## Công nghệ sử dụng
 
 - Unity Engine
 - C#
@@ -16,7 +16,7 @@ Dự án game nhập vai (RPG) 2D góc nhìn từ trên xuống, được xây d
 -  Thu thập vật phẩm
 -  Giao diện HUD đơn giản (máu, trang bị, menu)
 
-## ℹ️ Lưu ý khi chơi bản WebGL
+## Lưu ý khi chơi bản WebGL
 
 - Nhấn `W`, `A`, `S`, `D` để điều khiển nhân vật.
 - Nhấn `SPACE` để dash.
@@ -24,6 +24,5 @@ Dự án game nhập vai (RPG) 2D góc nhìn từ trên xuống, được xây d
 - Trên phiên bản WebGL, **nút `Esc` và nút `Quit` trên giao diện sẽ không thể thoát khỏi trình duyệt** — bạn có thể nhấn `F5` để tải lại game nếu cần.
 
 ## Cách chạy dự án
-1. Clone repo:
    ```bash
    git clone https://github.com/AspSerpentine/Game_2DRPG_demo.git
