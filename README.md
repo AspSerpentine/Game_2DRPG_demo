@@ -23,6 +23,6 @@ Dự án game nhập vai (RPG) 2D góc nhìn từ trên xuống, được xây d
 - Nhấn `Esc` để mở menu tạm dừng.
 - Trên phiên bản WebGL, **nút `Esc` và nút `Quit` trên giao diện sẽ không thể thoát khỏi trình duyệt** — bạn có thể nhấn `F5` để tải lại game nếu cần.
 
-## Cách chạy dự án
+## Cách chạy dự án ban WebGL
    ```bash
    git clone https://github.com/AspSerpentine/Game_2DRPG_demo.git
