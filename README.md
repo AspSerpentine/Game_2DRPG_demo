@@ -12,7 +12,7 @@ Dự án game nhập vai (RPG) 2D góc nhìn từ trên xuống, được xây d
 ## Tính năng chính
 
 -  Di chuyển nhân vật 4 hướng
--  Hệ thống quái vật đa dạng (nhiều loại AI, hành vi di chuyển, cách tấn công)
+-  Hệ thống bản đồ và quái vật đa dạng (nhiều loại AI, hành vi di chuyển, cách tấn công)
 -  Thu thập vật phẩm
 -  Giao diện HUD đơn giản (máu, trang bị, menu)
 
